@@ -1,0 +1,2 @@
+# Brother-Wireless-Printer-Setup
+Devices that depend on electricity cannot function without plugging it first to the wall outlet (electrical). So, pick out the the AC Power cord that comes with the box, connect brother printer to wifi and switch the device on. Turn on the computer as well, and push in the supplied CD-ROM into the CD-ROM Drive. In the no availability of a CD-ROM drive, setup can be done through the Internet; detailed instruction about the process is available.
